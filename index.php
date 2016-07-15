@@ -39,7 +39,7 @@ if (isset($_COOKIE['webcademy_login'])) {
             <a href="index.php" class="header__logo"><i class="fa fa-graduation-cap"></i> Webcademy</a>
             <nav class="menu">
                 <a href="courses/" class="">Courses</a>
-                <a href="<?php echo $annc_ref; ?>">Announcements</a>
+                <a href="<?php echo $annc_ref; ?>">Announcements*******</a>
             
                 <?php echo $profile_ref; ?>
                 <?php echo $signup_ref; ?>
