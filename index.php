@@ -64,7 +64,7 @@ if (isset($_COOKIE['webcademy_login'])) {
 
                             </div>
                             <div class="col-8 col-xs-10">
-                                <input type="search" class="form-md-ctrl search-md" name="q"
+                                <input type="search" class="form-md-ctrl++++++++++++++++++++++++ search-md" name="q"
                                        placeholder="ITEC316, ITEC229, ITEC230..." required/>
                             </div>
                             <div class="col-2 col-xs-2">
